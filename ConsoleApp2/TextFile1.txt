@@ -1,0 +1,5 @@
+﻿Testaussuunnitelma:
+
+Aja sovellus ja observoi konsoli-ikkunaa.
+
+Jos näkyviin tulee "Hello world", testi on läpäisty.
